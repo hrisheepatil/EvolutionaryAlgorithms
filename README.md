@@ -1,2 +1,2 @@
 # GA
-# Application of Genetic Algorithm on various problems
+ Application of Genetic Algorithm on various problems
